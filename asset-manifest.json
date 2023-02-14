@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/plantilla-web-app/static/css/main.9b4bd556.css",
-    "main.js": "/plantilla-web-app/static/js/main.c99a4459.js",
+    "main.css": "/plantilla-web-app/static/css/main.ba882aac.css",
+    "main.js": "/plantilla-web-app/static/js/main.4934a181.js",
     "static/js/787.b23ebc4d.chunk.js": "/plantilla-web-app/static/js/787.b23ebc4d.chunk.js",
     "static/media/imgcarousel3.webp": "/plantilla-web-app/static/media/imgcarousel3.9b9624404528f672ffaf.webp",
     "static/media/imgcarousel.webp": "/plantilla-web-app/static/media/imgcarousel.d31a5a83f00967088eec.webp",
@@ -11,17 +11,20 @@
     "static/media/personal.png": "/plantilla-web-app/static/media/personal.181aa1bd3c195f5a73b1.png",
     "static/media/direccion.png": "/plantilla-web-app/static/media/direccion.35f728a872358eed8126.png",
     "static/media/logo.webp": "/plantilla-web-app/static/media/logo.18a5e74b7d002ccd4d82.webp",
+    "static/media/particular.webp": "/plantilla-web-app/static/media/particular.1b705d6e3cc99263b297.webp",
+    "static/media/taxi.webp": "/plantilla-web-app/static/media/taxi.a3b93d3d911903785ffe.webp",
+    "static/media/urbano.webp": "/plantilla-web-app/static/media/urbano.6b11bb80b517ecb58e87.webp",
     "static/media/slick.svg": "/plantilla-web-app/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/plantilla-web-app/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/slick.ttf": "/plantilla-web-app/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/plantilla-web-app/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/plantilla-web-app/index.html",
-    "main.9b4bd556.css.map": "/plantilla-web-app/static/css/main.9b4bd556.css.map",
-    "main.c99a4459.js.map": "/plantilla-web-app/static/js/main.c99a4459.js.map",
+    "main.ba882aac.css.map": "/plantilla-web-app/static/css/main.ba882aac.css.map",
+    "main.4934a181.js.map": "/plantilla-web-app/static/js/main.4934a181.js.map",
     "787.b23ebc4d.chunk.js.map": "/plantilla-web-app/static/js/787.b23ebc4d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b4bd556.css",
-    "static/js/main.c99a4459.js"
+    "static/css/main.ba882aac.css",
+    "static/js/main.4934a181.js"
   ]
 }
