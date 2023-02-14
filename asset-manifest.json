@@ -1,8 +1,15 @@
 {
   "files": {
     "main.css": "/plantilla-web-app/static/css/main.501b9f86.css",
-    "main.js": "/plantilla-web-app/static/js/main.cca57495.js",
+    "main.js": "/plantilla-web-app/static/js/main.d0f574dd.js",
     "static/js/787.b23ebc4d.chunk.js": "/plantilla-web-app/static/js/787.b23ebc4d.chunk.js",
+    "static/media/imgcarousel3.webp": "/plantilla-web-app/static/media/imgcarousel3.9b9624404528f672ffaf.webp",
+    "static/media/imgcarousel.webp": "/plantilla-web-app/static/media/imgcarousel.d31a5a83f00967088eec.webp",
+    "static/media/imgcarousel2.webp": "/plantilla-web-app/static/media/imgcarousel2.3e9214a023b4caa119d4.webp",
+    "static/media/horarioatencion.png": "/plantilla-web-app/static/media/horarioatencion.f9849263f0e55066e2b9.png",
+    "static/media/icon-wsp-chat.webp": "/plantilla-web-app/static/media/icon-wsp-chat.a79fa431397a1ebf9bdf.webp",
+    "static/media/personal.png": "/plantilla-web-app/static/media/personal.181aa1bd3c195f5a73b1.png",
+    "static/media/direccion.png": "/plantilla-web-app/static/media/direccion.35f728a872358eed8126.png",
     "static/media/logo.webp": "/plantilla-web-app/static/media/logo.18a5e74b7d002ccd4d82.webp",
     "static/media/slick.svg": "/plantilla-web-app/static/media/slick.2630a3e3eab21c607e21.svg",
     "static/media/slick.eot": "/plantilla-web-app/static/media/slick.a4e97f5a2a64f0ab1323.eot",
@@ -10,11 +17,11 @@
     "static/media/slick.woff": "/plantilla-web-app/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/plantilla-web-app/index.html",
     "main.501b9f86.css.map": "/plantilla-web-app/static/css/main.501b9f86.css.map",
-    "main.cca57495.js.map": "/plantilla-web-app/static/js/main.cca57495.js.map",
+    "main.d0f574dd.js.map": "/plantilla-web-app/static/js/main.d0f574dd.js.map",
     "787.b23ebc4d.chunk.js.map": "/plantilla-web-app/static/js/787.b23ebc4d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.501b9f86.css",
-    "static/js/main.cca57495.js"
+    "static/js/main.d0f574dd.js"
   ]
 }
