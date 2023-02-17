@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/plantilla-web-app/static/css/main.ce5996d9.css",
-    "main.js": "/plantilla-web-app/static/js/main.494641f9.js",
+    "main.css": "/plantilla-web-app/static/css/main.15ffedcd.css",
+    "main.js": "/plantilla-web-app/static/js/main.ed6527b3.js",
     "static/js/787.b23ebc4d.chunk.js": "/plantilla-web-app/static/js/787.b23ebc4d.chunk.js",
     "static/media/imgcarousel3.webp": "/plantilla-web-app/static/media/imgcarousel3.9b9624404528f672ffaf.webp",
     "static/media/car-icon-2.webp": "/plantilla-web-app/static/media/car-icon-2.6657b9b047b54608fa11.webp",
@@ -22,12 +22,12 @@
     "static/media/slick.ttf": "/plantilla-web-app/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/plantilla-web-app/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/plantilla-web-app/index.html",
-    "main.ce5996d9.css.map": "/plantilla-web-app/static/css/main.ce5996d9.css.map",
-    "main.494641f9.js.map": "/plantilla-web-app/static/js/main.494641f9.js.map",
+    "main.15ffedcd.css.map": "/plantilla-web-app/static/css/main.15ffedcd.css.map",
+    "main.ed6527b3.js.map": "/plantilla-web-app/static/js/main.ed6527b3.js.map",
     "787.b23ebc4d.chunk.js.map": "/plantilla-web-app/static/js/787.b23ebc4d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ce5996d9.css",
-    "static/js/main.494641f9.js"
+    "static/css/main.15ffedcd.css",
+    "static/js/main.ed6527b3.js"
   ]
 }
