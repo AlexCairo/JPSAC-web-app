@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/plantilla-web-app/static/css/main.e9dad091.css",
+    "main.css": "/plantilla-web-app/static/css/main.c5a6aa1e.css",
     "main.js": "/plantilla-web-app/static/js/main.83ce4352.js",
     "static/js/787.b23ebc4d.chunk.js": "/plantilla-web-app/static/js/787.b23ebc4d.chunk.js",
     "static/media/imgcarousel3.webp": "/plantilla-web-app/static/media/imgcarousel3.9b9624404528f672ffaf.webp",
@@ -22,12 +22,12 @@
     "static/media/slick.ttf": "/plantilla-web-app/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/plantilla-web-app/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/plantilla-web-app/index.html",
-    "main.e9dad091.css.map": "/plantilla-web-app/static/css/main.e9dad091.css.map",
+    "main.c5a6aa1e.css.map": "/plantilla-web-app/static/css/main.c5a6aa1e.css.map",
     "main.83ce4352.js.map": "/plantilla-web-app/static/js/main.83ce4352.js.map",
     "787.b23ebc4d.chunk.js.map": "/plantilla-web-app/static/js/787.b23ebc4d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9dad091.css",
+    "static/css/main.c5a6aa1e.css",
     "static/js/main.83ce4352.js"
   ]
 }
